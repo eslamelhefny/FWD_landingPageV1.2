@@ -260,6 +260,10 @@ section{
 
 
 }
+  .navbar__menu .menu__link:hover {
+
+  transition: ease 0.3s all;
+}
 h1{
   font-size: 1em;
 }
